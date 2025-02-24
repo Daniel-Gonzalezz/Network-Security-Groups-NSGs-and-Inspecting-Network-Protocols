@@ -35,6 +35,5 @@ When two computers "ping" each other, they essentially send a small data packet 
 
 ![image](https://github.com/user-attachments/assets/b37b199c-b5d2-418b-a0b9-58aa03b2a980)
 
-A firewall acts as a security barrier between a private network and the public internet, monitoring and filtering all incoming and outgoing network traffic based on predefined rules, deciding whether to allow or block data packets depending on whether they meet the established security criteria, effectively preventing unauthorized access and malicious traffic from entering the network while permitting legitimate connections. In this examplewe have set up a layer 3 firewall and you can see that the request timed out, which essentially means that a firewall is blocking the connection.
-
+In this examplewe have set up a layer 3 firewall and you can see that the request timed out, which essentially means that a firewall is blocking the connection. A firewall acts as a security barrier between a private network and the public internet, monitoring and filtering all incoming and outgoing network traffic based on predefined rules, deciding whether to allow or block data packets depending on whether they meet the established security criteria, effectively preventing unauthorized access and malicious traffic from entering the network while permitting legitimate connections. 
 

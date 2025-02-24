@@ -22,10 +22,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create a Network Security Group (NSG)
+- Step 2:  Associate NSG with Virtual Machines' Subnet or Network Interface
+- Step 3: Define Inbound and Outbound Security Rules
+- Step 4: Inspect Traffic Between Virtual Machines
 
 <h2>Actions and Observations</h2>
 
